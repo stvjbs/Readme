@@ -27,3 +27,10 @@ Git - это одна из реализаций распределённых с�
 # IMAGE
 
 ![It's a skunk and it's amasing](/51-511364_item-skunk-skunk-png.jpg)
+
+Links
+===
+<https://yandex.ru/>
+
+[yandex.ru](https://yandex.ru/ "Всплывающая подсказка") - c подсказкой
+
